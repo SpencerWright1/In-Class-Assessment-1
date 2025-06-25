@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eTours_Unit_Testing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cbbd0216f9fe48b25dce9ec5254a8e93f7c3f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2b1c7592a5928fbac4e597b80656507a47df104")]
 [assembly: System.Reflection.AssemblyProductAttribute("eTours_Unit_Testing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eTours_Unit_Testing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
